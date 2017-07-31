@@ -1,0 +1,19 @@
+{
+  "name": "coursera-prog",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rglissmann80204/coursera-prog.git"
+  },
+  "author": "Russ Glissmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rglissmann80204/coursera-prog/issues"
+  },
+  "homepage": "https://github.com/rglissmann80204/coursera-prog#readme"
+}
